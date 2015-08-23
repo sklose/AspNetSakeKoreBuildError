@@ -1,0 +1,6 @@
+use namespace="System"
+use namespace="System.IO"
+var AUTHORS='Andasa GmbH'
+
+use-standard-lifecycle
+k-standard-goals

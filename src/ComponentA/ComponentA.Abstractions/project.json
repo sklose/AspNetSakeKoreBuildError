@@ -1,0 +1,12 @@
+﻿{
+  "version": "1.0.0",
+  "description": "ComponentA.Abstractions",
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+  "dependencies": {
+  },
+  "frameworks": {
+    "dnx451": { }
+  }
+}

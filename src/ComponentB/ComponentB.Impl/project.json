@@ -1,0 +1,14 @@
+﻿{
+  "version": "1.0.0",
+  "description": "ComponentB",
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+  "dependencies": {
+    "ComponentB.Abstractions": "1.0.0",
+    "ComponentA.Abstractions": "1.0.0"
+  },
+  "frameworks": {
+    "dnx451": { }
+  }
+}
